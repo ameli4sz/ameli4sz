@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amelia</h1>
-<h3 align="center">I'm a student of Informatics and Econometrics at the University and a passionate tutor in Mathematics.</h3>
+<h3 align="center">I'm a student of Informatics and Econometrics at the University of Gdańsk and a passionate tutor in Mathematics.</h3>
 
 - 🔭 I’m currently working on **University projects**
 
