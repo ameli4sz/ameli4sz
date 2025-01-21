@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Mathematics and how to combine education with tech!**
 
-- ⚡ Fun fact **I think I am funny, and I absolutely love rabbits! 🐇**
+- ⚡ Fun fact **I absolutely love rabbits 🐇, and I play the guitar! 🎸**
 
 
 
